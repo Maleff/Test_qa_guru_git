@@ -10,7 +10,7 @@ public class Main {
 	
 	
 	public static void another() {
-	System.out.println("Hello, DOGE!");
+	System.out.println("Hello, DOGE and CATS");
 	}
 	
 }
